@@ -1,3 +1,4 @@
+// 検証用
 var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('参照データ');
 
 var sheet2 = SpreadsheetApp.getActiveSpreadsheet(); 
